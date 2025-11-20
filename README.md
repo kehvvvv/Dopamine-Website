@@ -1,0 +1,1 @@
+complete the provided task (GigaPet_Project). Use the other files i provide as references for the level of coding you need to do (beginner. No fancy tricks or safety nets) My assigned methods are .off() and .toggleClass(). You MUST use these in the project. I will be using VSCode. I want my project to be simple and minimal but i would like to add the ability to add multiple pets.
