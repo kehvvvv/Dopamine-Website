@@ -25,4 +25,4 @@ Includes...
 - **README.md**: Provides an overview of the repository and instructions on how to access the webpage via GitHub Pages.
 
 ## Author
-[Kevin Castellanos](https://www.linkedin.com/in/kevin-c-4a8977281/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3B%2FJ0jVGuISI6gKoijmyNQvQ%3D%3D)
+[Kevin Castellanos](www.linkedin.com/in/kehvvv)
