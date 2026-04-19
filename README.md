@@ -1,6 +1,9 @@
 # HTML and CSS Website Design
 ## Overview
 This repository contains 4 HTML document files and a single CSS document file for the purpose of creating a simple informational website about a personal interest (dopamine). There is also a focus on the practical use of 3 elements ( [< progress >](https://www.w3schools.com/tags/tag_progress.asp) | [< fieldset >](https://www.w3schools.com/tags/tag_fieldset.asp) | [< legend >](https://www.w3schools.com/tags/tag_legend.ASP) and 3 attributes ( [loading=lazy](https://developer.mozilla.org/en-US/docs/Web/Performance/Guides/Lazy_loading) | [fetchpriority=high](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/fetchPriority) | [autofocus](https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Global_attributes/autofocus). This repository does not use any libraries or automated CSS code-generation. 
+## Access
+Use this link to access the simple website via GitHub Pages! 
+[Dopamine: Fuel & Friction](https://kehvvvv.github.io/Dopamine-Website/)
 ## Files
 - **index.html**: Initial start page introducing topic and navigation to other pages.
 Includes...
